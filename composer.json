@@ -1,0 +1,5 @@
+{
+	"requeir": {
+		"laravel/laravel": "5.*.*"
+	}
+}
