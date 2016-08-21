@@ -40,7 +40,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Be right back. <wdr> I am not afraid</div>
+                <div class="title">Be right back.</div>
             </div>
         </div>
     </body>

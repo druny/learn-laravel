@@ -38,8 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <?php var_dump(app()->environment()); ?>
-                <div class="title">Laravel 5 <br> Make SOMETHING!!!</div>
+                <div class="title">Laravel 5</div>
             </div>
         </div>
     </body>
